@@ -1,0 +1,1 @@
+Maybe main component or entry point  for the React part of the application

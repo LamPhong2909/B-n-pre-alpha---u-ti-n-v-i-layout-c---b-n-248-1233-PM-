@@ -1,0 +1,11 @@
+đây là một FRAMEWORK VỚI PREDEFINED CLASS mà mày có thể design bla bla ngay trong markup(HTML)
+Nó để mày viết CSS trong HTML
+low-level FRAMEWORK
+WHy use ?
+- Nổi bật thương hiệu
+- Responsive
+- dễ viết và maintain
+
+Có thể dùng Utility classess  để thao túng:
+- bố cục
+..

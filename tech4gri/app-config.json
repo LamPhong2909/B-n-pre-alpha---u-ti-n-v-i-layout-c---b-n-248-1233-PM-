@@ -1,0 +1,20 @@
+{
+  "app": {
+    "title": "Tech4gri for agriculture ",
+    "headerTitle": "zmp-blank-templates",
+    "headerColor": "#6505B0",
+    "textColor": "white",
+    "textAlign": "left",
+    "statusBarColor": "#ffffff",
+    "leftButton": "back",
+    "statusBar": "normal",
+    "actionBarHidden": false,
+    "hideAndroidBottomNavigationBar": false,
+    "hideIOSSafeAreaBottom": false
+  },
+  "debug": false,
+  "pages": [],
+  "listCSS": [],
+  "listSyncJS": [],
+  "listAsyncJS": []
+}
